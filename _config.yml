@@ -80,12 +80,12 @@ analytics:
 
 # Site Author
 author:
-  name             : "马亦凡"
-  avatar           : "head.jpg"
+  name             : "Yifan Ma"
+  avatar           : "profile2.png"
   bio              : "A Robotics Engineer Ready to Create"
   location         : "北京·中国"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           :
   googlescholar    : 
   email            : "mayifan318@qq.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
