@@ -1,15 +1,15 @@
 ---
-title: "Paper Title Number 1"
+title: "Multi-Joint Active Collision Avoidance for Robot Based on Depth Visual Perception"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/paper3
+excerpt: 'Human-robot collaboration is a research topic that has numerous potential applications, such as in smart cities. An important safety consideration in human-robot collaboration is collision avoidance [1]. Many studies have prioritized collision avoidance of the robot end-effector. However, multi-joint (whole-body) collision avoidance is also very important in complex working scenarios. Several studies have achieved multi-joint collision avoidance by estimating the distance between obstacles and control points placed on the robot body, which adds computational effort to the collision-detection process. Therefore, we combine a robot skeleton with depth visual perception to achieve a fast multi-joint collision avoidance response. This method can be divided into collision detection and collision avoidance strategies, as illustrated in Fig. 1. In collision detection, we use a statistical filtering algorithm to denoise visual data, and propose a real-time obstacle distance-estimation algorithm based on a robot skeleton. In the collision avoidance strategy, a multi-joint repulsive force model is established based on the artificial potential field, and a motion control strategy is developed to obtain a collision-free trajectory. Real-time collision avoidance experiments with a 7-DOF collaborative robot are conducted to verify our approach. The experimental results show that our method enables the robot to have the capability of active collision avoidance for both the end-effector and the whole body. The robot can avoid obstacles and complete desired tasks with a smooth trajectory.'
+date: 2022-12-01
+venue: ' IEEE/CAA Journal of Automatica Sinica'
+paperurl: 'https://ieeexplore.ieee.org/document/9970434'
+citation: ''
 ---
-This paper is about the number 1. The number 2 is left for future work.
+Human-robot collaboration is a research topic that has numerous potential applications, such as in smart cities. An important safety consideration in human-robot collaboration is collision avoidance [1]. Many studies have prioritized collision avoidance of the robot end-effector. However, multi-joint (whole-body) collision avoidance is also very important in complex working scenarios. Several studies have achieved multi-joint collision avoidance by estimating the distance between obstacles and control points placed on the robot body, which adds computational effort to the collision-detection process. Therefore, we combine a robot skeleton with depth visual perception to achieve a fast multi-joint collision avoidance response. This method can be divided into collision detection and collision avoidance strategies, as illustrated in Fig. 1. In collision detection, we use a statistical filtering algorithm to denoise visual data, and propose a real-time obstacle distance-estimation algorithm based on a robot skeleton. In the collision avoidance strategy, a multi-joint repulsive force model is established based on the artificial potential field, and a motion control strategy is developed to obtain a collision-free trajectory. Real-time collision avoidance experiments with a 7-DOF collaborative robot are conducted to verify our approach. The experimental results show that our method enables the robot to have the capability of active collision avoidance for both the end-effector and the whole body. The robot can avoid obstacles and complete desired tasks with a smooth trajectory.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+[Download paper here](https://ieeexplore.ieee.org/document/9970434)
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+Recommended citation: Hui Li, Xingfang Wang, Xiao Huang, **Yifan Ma**, and Zhihong Jiang. Multi-Joint Active Collision Avoidance for Robot Based on Depth Visual Perception[J]. IEEE/CAA Journal of Automatica Sinica. 

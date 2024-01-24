@@ -1,0 +1,16 @@
+---
+title: "Design and Fabrication of a Gecko-Inspired Surface for Improving the Grasping Ability of a Humanoid Dexterous Hand"
+collection: publications
+permalink: /publication/paper4
+excerpt: 'Many studies have examined the design, fabrication and characteristics of gecko-inspired adhesives, but applied research on gecko-inspired surfaces in humanoid dexterous hands is relatively scarce. Here, a wedged slanted structure with a curved substrate suitable for humanoid dexterous fingers was designed and manufactured via ultraprecision machining and replica molding. The adhesion and friction properties of the wedged slanted structure show obvious anisotropic characteristics in the gripping and releasing directions, and the influence of structural parameters and motion parameters on the adhesion and friction was systematically studied. The humanoid dexterous fingers with gecko-inspired surfaces greatly increased the grasping force limit (increase to 4.02 times) based on the grasping of measuring cups with different volumes of water and improved the grasping stability based on the picking up of smooth steel balls of different diameters. This study shows that this process, based on ultraprecision machining and replica molding, is a green, high-efficiency, and low-cost method to fabricate large-area biomimetic surfaces that has potential applications in dexterous humanoid hands to improve grasping ability, stability and adaptability.'
+date: 2023-02-23
+venue: 'SCIENCE CHINA Technological Sciences '
+paperurl: 'https://www.sciengine.com/SCTS/doi/10.1007/s11431-022-2176-4;JSESSIONID=92bc7adb-e380-49dc-a788-68fe646f95a9'
+citation: ''
+---
+Many studies have examined the design, fabrication and characteristics of gecko-inspired adhesives, but applied research on gecko-inspired surfaces in humanoid dexterous hands is relatively scarce. Here, a wedged slanted structure with a curved substrate suitable for humanoid dexterous fingers was designed and manufactured via ultraprecision machining and replica molding. The adhesion and friction properties of the wedged slanted structure show obvious anisotropic characteristics in the gripping and releasing directions, and the influence of structural parameters and motion parameters on the adhesion and friction was systematically studied. The humanoid dexterous fingers with gecko-inspired surfaces greatly increased the grasping force limit (increase to 4.02 times) based on the grasping of measuring cups with different volumes of water and improved the grasping stability based on the picking up of smooth steel balls of different diameters. This study shows that this process, based on ultraprecision machining and replica molding, is a green, high-efficiency, and low-cost method to fabricate large-area biomimetic surfaces that has potential applications in dexterous humanoid hands to improve grasping ability, stability and adaptability.
+
+
+[Download paper here](https://www.sciengine.com/SCTS/doi/10.1007/s11431-022-2176-4;JSESSIONID=92bc7adb-e380-49dc-a788-68fe646f95a9)
+
+Recommended citation: Zhihong Jiang, Minghui Shen, **Yifan Ma**, et al. Design and Fabrication of a Gecko-Inspired Surface for Improving the Grasping Ability of a Humanoid Dexterous Hand [J]. Science China Technological Sciences. 
