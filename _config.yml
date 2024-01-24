@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "马亦凡"
-  avatar           : "head.jpg"
+  avatar           : "./images/head.jpg"
   bio              : "A Robotics Engineer Ready to Build"
   location         : "北京·中国"
   employer         :
