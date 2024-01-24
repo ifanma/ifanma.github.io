@@ -22,6 +22,20 @@ redirect_from:
 </table>
 
 
+**技能水平：**
+
+1. 具备自动控制理论，机器人运动学，动力学以及电机驱动控制相关知识体系，有较好的工程实践技能
+2. 熟练使用ROS1/2机器人系统，熟悉Linux系统中的调试，熟悉Xenomai实时操作系统与EtherCAT通讯
+3. 熟练掌握C/C++、Python编程及数据结构，熟练掌握MATLAB语言及Simulink仿真
+4. 熟练使用Gazebo，V-rep等动力学仿真软件，熟悉Pinocchio，Drake，Ocs2等动力学计算及优化库
+5. 基本掌握STM32、Msp430、Arduino微处理器的应用开发，具备基本电路设计，仿真，绘制，焊接相关能力
+
+**个人评价：**
+
+热爱学习，热爱钻研，具有丰富的项目经历，对于机电系统软、硬件了解丰富，热衷于使用算法提高机电系统性能与功能，个人爱好FPV飞行，羽毛球，乒乓球，篮球。
+
+
+
 **教育背景：**
 
 
@@ -167,15 +181,3 @@ redirect_from:
 [5] Hui Li, Quan Zhou, Zeyuan Sun, **Yifan Ma**, Minghui Shen, et al. Trajectory Planning of 7-DOF Humanoid Redundant Manipulator Based on Time Optimization[C]//International Conference on Cognitive Systems and Signal Processing. Springer, Singapore, 2021: 527-544. (国际会议 已见刊)
 
 [6] Hui Li, Junhan Cui, **Yifan Ma**, et al. Design and Implementation of Autonomous Navigation System Based on Tracked Mobile Robot[C]//Cognitive Systems and Information Processing: 7th International Conference, ICCSIP 2022, Fuzhou, China, December 17-18, 2022, Revised Selected Papers. Singapore: Springer Nature Singapore, 2023: 329-350. (国际会议 已见刊)
-
-**技能水平：**
-
-1. 具备自动控制理论，机器人运动学，动力学以及电机驱动控制相关知识体系，有较好的工程实践技能
-2. 熟练使用ROS1/2机器人系统，熟悉Linux系统中的调试，熟悉Xenomai实时操作系统与EtherCAT通讯
-3. 熟练掌握C/C++、Python编程及数据结构，熟练掌握MATLAB语言及Simulink仿真
-4. 熟练使用Gazebo，V-rep等动力学仿真软件，熟悉Pinocchio，Drake，Ocs2等动力学计算及优化库
-5. 基本掌握STM32、Msp430、Arduino微处理器的应用开发，具备基本电路设计，仿真，绘制，焊接相关能力
-
-**个人评价：**
-
-热爱学习，热爱钻研，具有丰富的项目经历，对于机电系统软、硬件了解丰富，热衷于使用算法提高机电系统性能与功能，个人爱好FPV飞行，羽毛球，乒乓球，篮球。
