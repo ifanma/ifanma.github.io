@@ -9,17 +9,21 @@ redirect_from:
 
 {% include base_path %}
 
+
 <table>
 <tr>
   <th colspan="2">马亦凡</th>
-  <th colspan="1" rowspan="4" valign="top"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.001.png"></th>
+  <th colspan="1" rowspan="4" valign="top"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.001.png"/></th>
 </tr>
 <tr><td colspan="1" valign="top"><b>年龄：</b>25</td><td colspan="1" valign="top"><b>毕业时间：</b>2023年6月</td></tr>
 <tr><td colspan="1" valign="top"><b>籍贯：</b>山西长治</td><td colspan="1" valign="top"><b>政治面貌：</b>共青团员</td></tr>
 <tr><td colspan="1" valign="top"><b>手机：</b>18810158051</td><td colspan="1" valign="top"><b>电子邮件：</b>mayifan318@qq.com</td></tr>
 </table>
 
+
 **教育背景：**
+
+
 <table>
   <tr>
     <th>北京理工大学 机电学院</th>
@@ -51,7 +55,7 @@ redirect_from:
   </tr>
   <tr>
     <td colspan="1">项目描述：基于机器人平台展开机器人操作与共享控制研究<br>1、 研究空间避障规划方法，用于机械臂到达任务<br>2、 研究<b>非抓握推动接触作业操作</b>，使用混合整数二次规划方法优化轨迹，并设计Mpc方法进行规划控制。</td>
-    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.002.png"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.003.png"></td>
+    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.002.png"/><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.003.png"/></td>
   </tr>
 
    <tr>
@@ -61,7 +65,7 @@ redirect_from:
   </tr>
   <tr>
     <td colspan="1">项目描述：仿人双臂排爆机器人，采用沉浸式遥操作方式，完成爆炸物转移，销毁，剪线，开包等机械臂操作<br>1、 搭建整机电气、控制与通讯系统并设计实现<b>机械臂末端稳定转移算法</b>，设计实现基于RGB-D相机的交互目标拾取与<b>机械臂避障规划算法</b><br>2、 沉浸式头戴显示器显示，设计实现六维鼠标和VR手柄的精细遥操作</td>
-    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.004.png"></td>
+    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.004.png"/></td>
   </tr>
 
    <tr>
@@ -71,7 +75,7 @@ redirect_from:
   </tr>
   <tr>
     <td colspan="1">项目描述：设计实现力控协作机械臂，达到较高的力控性能，人机协作场景<br>1、 负责机械臂<b>实时控制系统程序编写</b>，<b>实现7自由度机械臂运动规划算法</b><br>2、 设计实现<b>机械臂末端导纳控制算法、</b>基于重力补偿的拖动点位示教算法<br>3、 基于Pinocchio动力学库实现机械臂多关节深度感知避障算法</td>
-    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.005.png"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.006.png"></td>
+    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.005.png/"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.006.png/"></td>
   </tr>
 
    <tr>
@@ -81,7 +85,7 @@ redirect_from:
   </tr>
   <tr>
     <td colspan="1">项目描述：双臂加可变型移动底盘，整机完成遥操作救援拖拽，清除障碍，过桥过壕沟，开门等操作<br>1、 作为团队骨干架构整机电气、控制与通讯系统，搭建Xenomai实时系统实现<b>整机26关节的EtherCAT通讯控制，关节轨迹插值规划</b><br>2、 基于UDP实现整机运动指令接口，设计实现机器人远程通讯及遥控，实现<b>履带底盘差速运动控制，实现履带构型切换</b><br>3、 设计实现基于穿戴动捕的同构遥操作控制器</td>
-    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.007.png"></td>
+    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.007.png/"></td>
   </tr>
 
    <tr>
@@ -91,7 +95,7 @@ redirect_from:
   </tr>
   <tr>
     <td colspan="1">项目描述：全自动搬运带有标记的砖块，从杂乱放置运输到指定L型区域，并码垛为指定顺序，采用舵轮底盘加UR5机械臂实现。<br>1、 设计机器人整体控制与电气系统，<b>设计四舵轮全向底盘运动控制方案</b><br>2、 实现<b>基于激光雷达的平面SLAM定位建图与路径规划</b>，使用VLP-16激光雷达，基于ROS系统采用Loam算法实现3维建图及2维平面地图的投影，构建代价地图进行导航规划<br>3、 设计<b>基于ROS系统的整机通讯与自动控制流程</b>，实现砖块目标识别与机械臂视觉伺服跟踪，激光雷达伺服跟踪</td>
-    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.008.png"></td>
+    <td colspan="2"><image src="../images/Aspose.Words.6cdd6670-e7db-4909-a7d9-43ddf5ef7a58.008.png/"></td>
   </tr>
 
    <tr>
